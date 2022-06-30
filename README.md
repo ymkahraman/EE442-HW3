@@ -1,6 +1,8 @@
 # EE442-HW3
 YUSUF MERT KAHRAMAN 2304830
+
 HW3
+
 kedi.txt ve thanos.txt write-read islemleri icin kullanim kolayligi saglamak icin saglanmistir.
 
 kedi.txt 512 bytedan kisa bir dosya iken thanos.txt yaklasik 4 kB buyuklugundedir.
